@@ -1,0 +1,3 @@
+I adjusted the total checkers to 50 and the items go from 5 to 40. Whenever I increase the number of checkers and the range of purchased items, the idle minutes and waiting time goes up.
+I also included the average number of items purchased.
+
